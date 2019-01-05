@@ -1,2 +1,3 @@
 # Health-Monitoring-System
-Winter Internship at IIT Kharagpur
+## Winter Internship at IIT Kharagpur
+Development of health monitoring system which provides emergency patients immediate treatment and automatically appoint them to a doctor. The main aim of this project was to build a kit which collects the ECG, temperature, SPO2 and pulse rate from a patient to display those data in a user interface and simultaneously send them to the database of a server for maintaining a record. I have mainly integrated the medical sensors with Raspberry pi, developed the user interface to display the live sensor data and transport those data to the database of a local server.
