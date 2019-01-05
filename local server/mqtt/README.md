@@ -1,6 +1,6 @@
 # Transfer of data from Pi to Server over Mqtt
 
-##Make sure HiveMQ or any broker is installed in this server
+## Make sure HiveMQ or any broker is installed in this server
 
 * Install the library paho-mqtt in server provided in this folder by follwing.
 cd paho.mqtt.python-master

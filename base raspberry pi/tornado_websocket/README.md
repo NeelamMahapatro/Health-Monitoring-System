@@ -1,4 +1,4 @@
-#Transfer of data from Pi to Server over Websocket
+# Transfer of data from Pi to Server over Websocket
 * Install the library tornado-websocket in raspberry pi provided in this folder by follwing.
 cd tornado-master
 python / python3 setup.py install
